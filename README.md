@@ -12,8 +12,8 @@ Don't forget that you must also fill out an evaluation form in Moodle to conside
 
 ## Grading
 
-Student A (Name AND Email):
-Student B (Name AND Email):
+Student A (Name AND Email): Sebastián A. Ramos Flores sebastian.ramos4@upr.edu
+Student B (Name AND Email): Lucas Maldonado Montañez lucas.maldonado@upr.edu
 
 Any project that doesn't compile will receive a 0.
 
